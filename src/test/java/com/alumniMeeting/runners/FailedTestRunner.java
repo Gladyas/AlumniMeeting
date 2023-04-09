@@ -1,4 +1,4 @@
-package com.alumniMeeting.runners.runners;
+package com.alumniMeeting.runners;
 
 
 import io.cucumber.junit.Cucumber;
