@@ -1,4 +1,4 @@
-package com.alumniMeeting.runners.runners;
+package com.alumniMeeting.runners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         glue = "com/alumniMeeting/Step_Def",
 
         dryRun = false,
-        tags = "@reyhan",
+        tags = "",
         publish = false
 
 )
